@@ -1,0 +1,7 @@
+/opt/goinfre/cflossie/Java_Bootcamp._Day07-2/src/ex02/ORM/src/main/java/edu/school21/app/Program.java
+/opt/goinfre/cflossie/Java_Bootcamp._Day07-2/src/ex02/ORM/src/main/java/edu/school21/models/User.java
+/opt/goinfre/cflossie/Java_Bootcamp._Day07-2/src/ex02/ORM/src/main/java/edu/school21/app/OrmManager.java
+/opt/goinfre/cflossie/Java_Bootcamp._Day07-2/src/ex02/ORM/src/main/java/edu/school21/annotations/OrmColumnId.java
+/opt/goinfre/cflossie/Java_Bootcamp._Day07-2/src/ex02/ORM/src/main/java/edu/school21/annotations/OrmColumn.java
+/opt/goinfre/cflossie/Java_Bootcamp._Day07-2/src/ex02/ORM/src/main/java/edu/school21/models/Car.java
+/opt/goinfre/cflossie/Java_Bootcamp._Day07-2/src/ex02/ORM/src/main/java/edu/school21/annotations/OrmEntity.java
